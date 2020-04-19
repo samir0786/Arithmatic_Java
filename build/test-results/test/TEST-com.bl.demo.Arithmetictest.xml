@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bl.demo.Arithmetictest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-19T12:06:51" hostname="TANVEER-PC" time="0.005">
+  <properties/>
+  <testcase name="given_TwoInput_WhenAdd_ReturnAddition" classname="com.bl.demo.Arithmetictest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
